@@ -5,7 +5,7 @@ I'm a Science in Computer Information Systems Student 🎓
 
 just a Aspiring Software Developer chasing ideas. building. learning. repeating. 👾
 
-![html](https://img.shields.io/badge/html-blue) ![css](https://img.shields.io/badge/css-yellow) ![python](https://img.shields.io/badge/python-green) ![java](https://img.shields.io/badge/java-red)
+![html](https://img.shields.io/badge/html-navy) ![css](https://img.shields.io/badge/css-blue) ![python](https://img.shields.io/badge/python-fuchsia) ![java](https://img.shields.io/badge/java-violet)
 
 <!--
 **rikelmeassis/rikelmeassis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
