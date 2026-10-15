@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi 👋
+
+I'm a Science in Computer Information Systems Student 🎓  
+📍 Universidade Vila Velha (UVV)  
+
+![html](https://img.shields.io/badge/html-blue) ![css](https://img.shields.io/badge/css-yellow) ![python](https://img.shields.io/badge/python-green) ![java](https://img.shields.io/badge/java-red)
 
 <!--
 **rikelmeassis/rikelmeassis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
