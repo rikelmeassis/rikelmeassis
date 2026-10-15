@@ -3,6 +3,8 @@
 I'm a Science in Computer Information Systems Student 🎓  
 📍 Universidade Vila Velha (UVV)  
 
+just a Aspiring Software Developer chasing ideas. building. learning. repeating. 👾
+
 ![html](https://img.shields.io/badge/html-blue) ![css](https://img.shields.io/badge/css-yellow) ![python](https://img.shields.io/badge/python-green) ![java](https://img.shields.io/badge/java-red)
 
 <!--
